@@ -4,14 +4,12 @@
 
 
 ## Acceptance Criteria
-~~- The application starts with listing all hotels
-   http://my-json-server.typicode.com/fly365com/code-challenge/hotels~~
-~~- The user can click on any hotel to get its details, the hotel details is rendered in same page "no router needed"~~
-   ~~http://my-json-server.typicode.com/fly365com/code-challenge/hotelDetails/{id}~~
-~~- The user can change the number of nights and this will reflect on all hotels prices, the default is one night~~
-~~- The user should find an image gallery for the hotel~~
-~~- The user should see the comments divided into pages and each page contains 3 comments~~
-~~- The user can sort comments based on comment score~~
+- ~~The application starts with listing all hotels http://my-json-server.typicode.com/fly365com/code-challenge/hotels~
+- ~~The user can click on any hotel to get its details, the hotel details is rendered in same page "no router needed" http://my-json-server.typicode.com/fly365com/code-challenge/hotelDetails/{id}~~ 
+- ~~The user can change the number of nights and this will reflect on all hotels prices, the default is one night~~
+- ~~The user should find an image gallery for the hotel~~
+- ~~The user should see the comments divided into pages and each page contains 3 comments~~
+- ~~The user can sort comments based on comment score~~
 
 
 ## Expectations
