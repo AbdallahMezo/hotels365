@@ -23,19 +23,18 @@
 - ~~ECMAScript 6 and beyond must be used~~
 
 - Unit testing
-
-  -- Karmajs used in addition to Mochajs and PhantomJs to create unit tests
-  -- Tests covarge are 91.94%
-  -- 5/23 Failed tests *to be fixed later*
+  ** Karmajs used in addition to Mochajs and PhantomJs to create unit tests.
+  ** Tests covarge are 91.94%
+  ** 5/23 Failed tests *to be fixed later*
 
 - No plugin should be used for pagination and image gallery
-  -- created a simple Vuejs component to display images in a gallary
-  -- style needs some improvments
+  ** created a simple Vuejs component to display images in a gallary
+  ** style needs some improvments
 
 - How will the components commuicate with each other ?
-  -- by following higher order component pattern and passing data from parent component to child
+  ** by following higher order component pattern and passing data from parent component to child
 components as props
-  -- for reveresed commuication event bus had beed used to fire events for parent components to listen and do something
+  ** for reveresed commuication event bus had beed used to fire events for parent components to listen and do something
 
 - *Quality over quantity*
 
